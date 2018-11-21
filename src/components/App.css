@@ -1,0 +1,54 @@
+.bgColor{
+    background-color: red;
+}
+.bordered{    
+    border: solid 1px #f1f1f1;
+}
+.form-style{
+    margin-top: 130px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.login-bg{
+    background-image: url('../assets/login-bg.jpg');
+    height: 500px;
+    background-position: center center;
+    background-size: cover;
+}
+.logo-style{        
+    max-width: 265px;
+    margin-left: 40px;
+    margin-top: 80px;
+    margin-bottom: 70px;
+}
+.logo-menu-style{    
+    max-width: 202px;
+    height: 70px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.login-paragraph{
+    color:white;
+    margin-left: 40px;
+    padding-right: 200px;
+}
+.whitesmoke-bg{
+    background-color: whitesmoke;
+}
+.login-title{
+    font-size: 20px;
+    color: #abb4bd;
+    margin-bottom: 20px;
+}
+.nav-style{
+    background-color: whitesmoke;
+    padding: 30px 0px 30px 0px;
+}
+.card-style{
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-top: solid 8px #00d1b2;
+}
+.is-rrd-color{
+    background-color: #191763;
+}
